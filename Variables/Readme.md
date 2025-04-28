@@ -35,7 +35,7 @@ Esto ayuda a controlar mejor los cambios en la información de nuestros programa
 - Genere el link del audio y el link del GitHub.
   
 - [🔗 Link del audio](#)
-- [🔗 Link del código probado por US y Guardado en GitHub](#)
+- [🔗 Link del código probado por US y Guardado en GitHub](https://github.com/mejia-Xsbethx15162/FichasExpos/blob/6db4fd3776e313f94eecd3e12e7f09b559c94157/Variables/Variables.jpeg)
 
 ---
 
