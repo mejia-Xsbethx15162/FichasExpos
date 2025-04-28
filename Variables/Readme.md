@@ -41,3 +41,49 @@ Esto ayuda a controlar mejor los cambios en la información de nuestros programa
 
 # Escribe una nota del cómo funciona la estructura
 
+// fun main() {
+
+    // Variables mutables (pueden cambiar de valor)
+    var ciudad: String = "Madrid"
+    var temperatura: Int = 22
+    var velocidadViento: Double = 15.5
+    var lloviendo: Boolean = false
+
+    // Variables inmutables (no pueden cambiar de valor)
+    val continente: String = "Europa"
+    val gravedad: Float = 9.81f
+
+    // Imprimir los valores
+    println("Ciudad: $ciudad")
+    println("Temperatura: $temperatura °C")
+    println("Velocidad del viento: $velocidadViento km/h")
+    println("¿Está lloviendo?: $lloviendo")
+    println("Continente: $continente")
+    println("Gravedad terrestre: $gravedad m/s²")
+
+    // Modificando variables mutables
+    ciudad = "Barcelona"
+    temperatura = 18
+
+    println("Nueva ciudad: $ciudad")
+    println("Nueva temperatura: $temperatura °C")
+// }
+
+# Resultado en Consola:
+
+Ciudad: Madrid
+Temperatura: 22 °C
+Velocidad del viento: 15.5 km/h
+¿Está lloviendo?: false
+Continente: Europa
+Gravedad terrestre: 9.81 m/s²
+Nueva ciudad: Barcelona
+Nueva temperatura: 18 °C
+
+
+# Explicación:
+
+- **Variables mutables (var)**: Son aquellas que pueden cambiar de valor a lo largo de la ejecución del programa, como ciudad y temperatura.
+- **Variables inmutables (val)**: Una vez asignado un valor, no se puede cambiar. continente y gravedad permanecen constantes.
+- Se utilizan println para mostrar el valor de cada variable en consola.
+- Se demuestra cómo es posible actualizar el valor de las variables mutables posteriormente.
