@@ -33,9 +33,9 @@ Esto ayuda a controlar mejor los cambios en la información de nuestros programa
 ## 3. En el listado compartido busque el algoritmo que corresponda y explíquelo paso a paso
 
 - Genere el link del audio y el link del GitHub.
-
-[🔗 Link del audio](#)
-[🔗 Link del código probado por US y Guardado en GitHub](#)
+  
+- [🔗 Link del audio](#)
+- [🔗 Link del código probado por US y Guardado en GitHub](#)
 
 ---
 
