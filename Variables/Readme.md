@@ -1,3 +1,5 @@
+Estructura #1
+
 # MANEJO DE VARIABLES
 
 ---
