@@ -47,7 +47,8 @@ La impresión en Kotlin es fundamental para comunicar información al usuario a 
 
 # Escribe una nota del cómo funciona la estructura
 
-fun main() {
+// fun main() {
+
     // Información sobre un vehículo
     var marca: String = "Toyota"               // Variable mutable para la marca del vehículo
     var modelo: String = "Corolla"             // Variable mutable para el modelo del vehículo
@@ -83,7 +84,7 @@ fun main() {
 
     print("Y el nuevo año de fabricación es ")
     println(anioFabricacion)
-}
+// }
 
 # Resultado en Consola:
 
