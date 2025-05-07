@@ -41,7 +41,7 @@ La impresión en Kotlin es fundamental para comunicar información al usuario a 
 - Genere el link del audio y el link del GitHub.
   
 - [🔗 Link del audio](#)
-- [🔗 Link del código probado por US y Guardado en GitHub](https://github.com/mejia-Xsbethx15162/FichasExpos/blob/6db4fd3776e313f94eecd3e12e7f09b559c94157/Variables/Variables.jpeg)
+- [🔗 Link del código probado por US y Guardado en GitHub](https://github.com/mejia-Xsbethx15162/FichasExpos/blob/86c1fbba7234156d10f08ec1e36b20436568785a/FuncionesStringsyPrinting/FuncionStringyPrinting.png)
 
 ---
 
