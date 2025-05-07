@@ -47,36 +47,38 @@ La impresión en Kotlin es fundamental para comunicar información al usuario a 
 
 # Escribe una nota del cómo funciona la estructura
 
-fun main() {
-
+// fun main() {
     // Información sobre un vehículo
-    var marca: String = "Toyota"                // Variable mutable para la marca del vehículo
-    var modelo: String = "Corolla"              // Variable mutable para el modelo del vehículo
-    var anioFabricacion: Int = 2018             // Variable mutable para el año de fabricación
-    var kilometraje: Double = 45000.5           // Variable mutable para el kilometraje recorrido
-    var enVenta: Boolean = true                  // Variable mutable para saber si está en venta
+    var marca: String = "Toyota"            // Variable mutable
+    var modelo: String = "Corolla"          // Variable mutable
+    var anioFab: Int = 2018                 // Variable mutable
+    var kilometraje: Double = 45000.5       // Variable mutable
+    var enVenta: Boolean = true              // Variable mutable
 
-    // Variables inmutables (no pueden cambiar)
-    val tipoComburible: String = "Gasolina"     // Variable inmutable para tipo de combustible
-    val numeroPuertas: Int = 4                   // Variable inmutable para número de puertas
+    // Variables inmutables
+    val tipoCombustible: String = "Gasolina" // Variable inmutable
+    val numeroPuertas: Int = 4                // Variable inmutable
 
-    // Imprimir los valores con println
+    // Imprimir los valores
     println("Marca: $marca")
     println("Modelo: $modelo")
-    println("Año de fabricación: $anioFabricacion")
+    println("Año de fabricación: $anioFab")
     println("Kilometraje: $kilometraje km")
     println("¿Está en venta?: $enVenta")
-    println("Tipo de combustible: $tipoComburible")
+    println("Tipo de combustible: $tipoCombustible")
     println("Número de puertas: $numeroPuertas")
 
     // Modificar variables mutables
     marca = "Honda"
-    anioFabricacion = 2020
+    anioFab = 2020
 
     // Mensaje final
-    println("La nueva marca es $marca")
-    println("Y el nuevo año de fabricación es $anioFabricacion")
+    print("La nueva marca es ")
+    println(marca)
+    print("y el nuevo año de fabricación es ")
+    println(anioFab)
 }
+
 
 # Resultado en Consola:
 
