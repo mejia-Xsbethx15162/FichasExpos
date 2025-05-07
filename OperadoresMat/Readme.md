@@ -52,7 +52,7 @@ operaciones y comparaciones.
 - Genere el link del audio y el link del GitHub.
   
 - [🔗 Link del audio](#)
-- [🔗 Link del código probado por US y Guardado en GitHub](https://github.com/mejia-Xsbethx15162/FichasExpos/blob/6db4fd3776e313f94eecd3e12e7f09b559c94157/Variables/Variables.jpeg)
+- [🔗 Link del código probado por US y Guardado en GitHub](https://github.com/mejia-Xsbethx15162/FichasExpos/blob/aab98304ca08d09debffad9ad50e79ed91ad0364/OperadoresMat/OperadoresMat.png)
 
 ---
 
@@ -60,48 +60,57 @@ operaciones y comparaciones.
 
 // fun main() {
 
-    // Variables mutables (pueden cambiar de valor)
-    var ciudad: String = "Madrid"
-    var temperatura: Int = 22
-    var velocidadViento: Double = 15.5
-    var lloviendo: Boolean = false
+    // Variables mutables inicializadas con números decimales (Double)
+    var x: Double = 15.75                     // Declaración de variable mutable x con valor 15.75
+    var y: Double = 4.2                       // Declaración de variable mutable y con valor 4.2
 
-    // Variables inmutables (no pueden cambiar de valor)
-    val continente: String = "Europa"
-    val gravedad: Float = 9.81f
+    // Operadores aritméticos básicos
+    val suma = x + y                          // Suma de x e y
+    val resta = x - y                         // Resta de y a x
+    val multiplicacion = x * y                // Multiplicación de x e y
+    val division = x / y                      // División de x entre y
+    val modulo = x % y                        // Módulo (residuo) de x dividio entre y
 
-    // Imprimir los valores
-    println("Ciudad: $ciudad")
-    println("Temperatura: $temperatura °C")
-    println("Velocidad del viento: $velocidadViento km/h")
-    println("¿Está lloviendo?: $lloviendo")
-    println("Continente: $continente")
-    println("Gravedad terrestre: $gravedad m/s²")
+    // Operadores de asignación compuesta
+    x += y * 2                               // Incrementa x sumando el doble de y
+    y /= 3                                  // Divide y entre 3 y actualiza su valor
 
-    // Modificando variables mutables
-    ciudad = "Barcelona"
-    temperatura = 18
+    // Operadores unarios
+    x++                                     // Incremento postfijo: x aumenta en 1
+    --y                                     // Decremento prefijo: y disminuye en 1 antes de usarse
 
-    println("Nueva ciudad: $ciudad")
-    println("Nueva temperatura: $temperatura °C")
+    // Operación combinada usando variables modificadas
+    val resultadoFinal = (x + y) * (x - y) / y   // Expresión combinada de suma, resta, multiplicación y división
+
+    // Mostrar resultados en consola
+    println("Suma: $suma")
+    println("Resta: $resta")
+    println("Multiplicación: $multiplicacion")
+    println("División: $division")
+    println("Módulo: $modulo")
+    println("Valor final de x: $x")
+    println("Valor final de y: $y")
+    println("Resultado final de la expresión combinada: $resultadoFinal")
 // }
+
 
 # Resultado en Consola:
 
-Ciudad: Madrid
-Temperatura: 22 °C
-Velocidad del viento: 15.5 km/h
-¿Está lloviendo?: false
-Continente: Europa
-Gravedad terrestre: 9.81 m/s²
-Nueva ciudad: Barcelona
-Nueva temperatura: 18 °C
+Suma: 19.95
+Resta: 11.55
+Multiplicación: 66.15
+División: 3.75
+Módulo: 3.15
+Valor final de x: 25.15
+Valor final de y: 0.4
+Resultado final de la expresión combinada: 1580.9062
 
 
 # Explicación:
 
-- **Variables mutables (var)**: Son aquellas que pueden cambiar de valor a lo largo de la ejecución del programa, como ciudad y temperatura.
-- **Variables inmutables (val)**: Una vez asignado un valor, no se puede cambiar. continente y gravedad permanecen constantes.
-- Se utilizan println para mostrar el valor de cada variable en consola.
-- Se demuestra cómo es posible actualizar el valor de las variables mutables posteriormente.
+- Primero declaramos dos variables mutables x y y con valores decimales.
+- Luego calculamos operaciones básicas entre x y y, y guardamos los resultados.
+- Modificamos los valores de x y y con asignaciones compuestas y operadores unarios.
+- Finalmente, calculamos una expresión matemática combinada con los valores actualizados.
+- Imprimimos todos los resultados y los valores finales para ver los cambios.
 
