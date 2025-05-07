@@ -47,36 +47,43 @@ La impresión en Kotlin es fundamental para comunicar información al usuario a 
 
 # Escribe una nota del cómo funciona la estructura
 
-// fun main() {
+fun main() {
+
     // Información sobre un vehículo
-    var marca: String = "Toyota"            // Variable mutable
-    var modelo: String = "Corolla"          // Variable mutable
-    var anioFab: Int = 2018                 // Variable mutable
-    var kilometraje: Double = 45000.5       // Variable mutable
-    var enVenta: Boolean = true              // Variable mutable
+    var marca: String = "Toyota"               // Variable mutable para la marca del vehículo
+    var modelo: String = "Corolla"             // Variable mutable para el modelo del vehículo
+    var anioFabricacion: Int = 2018             // Variable mutable para el año de fabricación
+    var kilometraje: Double = 45000.5           // Variable mutable para el kilometraje recorrido
+    var enVenta: Boolean = true                  // Variable mutable para saber si está en venta
 
-    // Variables inmutables
-    val tipoCombustible: String = "Gasolina" // Variable inmutable
-    val numeroPuertas: Int = 4                // Variable inmutable
+    // Variables inmutables (no pueden cambiar)
+    val tipoCombustible: String = "Gasolina"    // Variable inmutable para tipo de combustible
+    val numeroPuertas: Int = 4                    // Variable inmutable para número de puertas
 
-    // Imprimir los valores
+    // Imprimir los valores con println
     println("Marca: $marca")
     println("Modelo: $modelo")
-    println("Año de fabricación: $anioFab")
+    println("Año de fabricación: $anioFabricacion")
     println("Kilometraje: $kilometraje km")
     println("¿Está en venta?: $enVenta")
     println("Tipo de combustible: $tipoCombustible")
     println("Número de puertas: $numeroPuertas")
 
+    // Usar print para mostrar un mensaje concatenado paso a paso sin salto de línea automático
+    print("Este vehículo es un $marca $modelo, ")
+    print("fabricado en el año $anioFabricacion, ")
+    print("y tiene un kilometraje de $kilometraje km.\n")   // Salto de línea manual
+
     // Modificar variables mutables
     marca = "Honda"
-    anioFab = 2020
+    anioFabricacion = 2020
 
-    // Mensaje final
+    // Combinación de print y println para dar un mensaje final
     print("La nueva marca es ")
     println(marca)
-    print("y el nuevo año de fabricación es ")
-    println(anioFab)
+
+    print("Y el nuevo año de fabricación es ")
+    println(anioFabricacion)
 }
 
 
