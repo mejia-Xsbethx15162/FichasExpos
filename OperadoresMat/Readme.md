@@ -45,7 +45,7 @@ operaciones y comparaciones.
 ## 2. Genere un ejemplo internamente en el recuadro.
 
 - Utilice un editor de código para lograrlo.
-  [🔗 Link del Código](https://pl.kotl.in/mywCjRVjV)
+  [🔗 Link del Código](https://pl.kotl.in/_HgKSBlEi)
 
 ## 3. En el listado compartido busque el algoritmo que corresponda y explíquelo paso a paso
 
