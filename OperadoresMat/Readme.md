@@ -96,14 +96,14 @@ operaciones y comparaciones.
 
 # Resultado en Consola:
 
-Suma: 19.95
-Resta: 11.55
-Multiplicación: 66.15
-División: 3.75
-Módulo: 3.15
-Valor final de x: 25.15
-Valor final de y: 0.4
-Resultado final de la expresión combinada: 1580.9062
+- **Suma:** 19.95
+- **Resta:** 11.55
+- **Multiplicación:** 66.15
+- **División:** 3.75
+- **Módulo:** 3.15
+- **Valor final de x:** 25.15
+- **Valor final de y:** 0.4
+- **Resultado final de la expresión combinada:** 1580.9062
 
 
 # Explicación:
