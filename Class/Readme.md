@@ -40,7 +40,7 @@ Las class en Kotlin (y en la programación orientada a objetos en general) son b
 - Genere el link del audio y el link del GitHub.
   
 - [🔗 Link del audio](#)
-- [🔗 Link del código probado por US y Guardado en GitHub](https://github.com/mejia-Xsbethx15162/FichasExpos/blob/770e9d106cd9513a67b33b92f4b04340e2b0c28b/Arrays/Arrays.png)
+- [🔗 Link del código probado por US y Guardado en GitHub](https://github.com/mejia-Xsbethx15162/FichasExpos/blob/d03fbedea6aae556196e156a241ddbdeb96fd433/Class/Class.png)
 
 ---
 
