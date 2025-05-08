@@ -64,7 +64,7 @@ sin bloquear el hilo principal (la interfaz de usuario).
 - Genere el link del audio y el link del GitHub.
   
 - [🔗 Link del audio](#)
-- [🔗 Link del código probado por US y Guardado en GitHub](https://github.com/mejia-Xsbethx15162/FichasExpos/blob/b9950a287018f5d6b021a3cbb3107590b132f7c9/Collections/Collections.png)
+- [🔗 Link del código probado por US y Guardado en GitHub](https://github.com/mejia-Xsbethx15162/FichasExpos/blob/c8d0daf75ce94553b2380824e8d6ef2dc935b206/LoopersBucles/Loopers.png)
 
 ---
 
