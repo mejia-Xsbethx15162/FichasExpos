@@ -51,7 +51,7 @@ operaciones y comparaciones.
 
 - Genere el link del audio y el link del GitHub.
   
-- [🔗 Link del audio](#)
+- [🔗 Link del audio](https://github.com/mejia-Xsbethx15162/FichasExpos/raw/refs/heads/main/OperadoresMat/OperadoresMat.ogg)
 - [🔗 Link del código probado por US y Guardado en GitHub](https://github.com/mejia-Xsbethx15162/FichasExpos/blob/aab98304ca08d09debffad9ad50e79ed91ad0364/OperadoresMat/OperadoresMat.png)
 
 ---
