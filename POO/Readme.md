@@ -1,4 +1,4 @@
-Estructura #10
+Estructura #11
 
 # POO
 
@@ -304,7 +304,7 @@ fun main() {
 - Genere el link del audio y el link del GitHub.
   
 - [🔗 Link del audio](#)
-- [🔗 Link del código probado por US y Guardado en GitHub](https://github.com/mejia-Xsbethx15162/FichasExpos/blob/d03fbedea6aae556196e156a241ddbdeb96fd433/Class/Class.png)
+- [🔗 Link del código probado por US y Guardado en GitHub](https://github.com/mejia-Xsbethx15162/FichasExpos/blob/c8c08c09f5872d40ecb75a0eabc13190ee2b2ba4/POO/POO.png)
 
 ---
 
