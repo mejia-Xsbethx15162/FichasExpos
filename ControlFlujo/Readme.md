@@ -49,7 +49,8 @@ Asegura que el código responda correctamente ante situaciones inesperadas, evit
 - Genere el link del audio y el link del GitHub.
   
 - [🔗 Link del audio](#)
-- [🔗 Link del código probado por US y Guardado en GitHub](https://github.com/mejia-Xsbethx15162/FichasExpos/blob/aab98304ca08d09debffad9ad50e79ed91ad0364/OperadoresMat/OperadoresMat.png)
+- [🔗 Link del código probado por US y Guardado en GitHub](https://github.com/mejia-Xsbethx15162/FichasExpos/blob/450cc72e72a0057ce5e1e463c114a505237c5815/ControlFlujo/controles%20de%20flujoIfBucles.png)
+-  [🔗 Link del código probado por US y Guardado en GitHub](https://github.com/mejia-Xsbethx15162/FichasExpos/blob/450cc72e72a0057ce5e1e463c114a505237c5815/ControlFlujo/controles%20de%20flujoIfBucles.png)
 
 ---
 
