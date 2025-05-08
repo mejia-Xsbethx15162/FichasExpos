@@ -36,7 +36,7 @@ Esto ayuda a controlar mejor los cambios en la información de nuestros programa
 
 - Genere el link del audio y el link del GitHub.
   
-- [🔗 Link del audio](#)
+- [🔗 Link del audio](https://github.com/mejia-Xsbethx15162/FichasExpos/raw/b5c85e2205b7764e101c14d891f534c24e924ec4/Variables/ManejoVariables_Tipos%20(online-audio-converter.com).mp3)
 - [🔗 Link del código probado por US y Guardado en GitHub](https://github.com/mejia-Xsbethx15162/FichasExpos/blob/6db4fd3776e313f94eecd3e12e7f09b559c94157/Variables/Variables.jpeg)
 
 ---
