@@ -222,5 +222,11 @@ Este proyecto simula una cola de tareas utilizando la clase `LinkedList` de Java
  - Crea una instancia de `TaskQueue` con una longitud máxima de 5.
  - Simula la adición y procesamiento de tareas, mostrando el estado de la cola y el historial en diferentes momentos.
 
-Este ejemplo ilustra cómo implementar una estructura de cola con funcionalidades adicionales como un historial y una capacidad máxima utilizando la versatilidad de `LinkedList` en Kotlin. Es útil en escenarios donde se necesita gestionar tareas en orden y mantener un registro de su manipulación.
+Este ejemplo ilustra cómo implementar una estructura de cola con funcionalidades adicionales como un historial y una capacidad máxima utilizando la versatilidad de `LinkedList` en Kotlin. Es útil en escenarios 
+donde se necesita gestionar tareas en orden y mantener un registro de su manipulación.
+
+## 4.Nota:
+
+Solo agregamos ejemplos de collections ya que la parte de json no la han expuesto entonces no sabemos como hacerlo por esta razon solo hay ejemplos y se habla mas que todo de Collections.
+
 
