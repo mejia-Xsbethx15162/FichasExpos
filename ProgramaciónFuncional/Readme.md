@@ -41,7 +41,7 @@ El paradigma de la programación funcional se adopta en Kotlin por varias razone
 
 - Genere el link del audio y el link del GitHub.
   
-- [🔗 Link del audio](#)
+- [🔗 Link del audio](https://github.com/mejia-Xsbethx15162/FichasExpos/raw/refs/heads/main/Programaci%C3%B3nFuncional/Programaci%C3%B3nExpLambdas.ogg)
 - [🔗 Link del código probado por US y Guardado en GitHub](https://github.com/mejia-Xsbethx15162/FichasExpos/blob/c8ffe86759ba17bb1082e7b2f25b3a55f67a79b7/Programaci%C3%B3nFuncional/Programaci%C3%B3nExpLambdas.png)
 
 ---
