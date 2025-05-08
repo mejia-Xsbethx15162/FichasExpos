@@ -64,7 +64,7 @@ Porque una aplicación sin datos útiles no cumple su propósito. El manejo adec
 
 - Genere el link del audio y el link del GitHub.
   
-- [🔗 Link del audio](#)
+- [🔗 Link del audio](https://github.com/mejia-Xsbethx15162/FichasExpos/raw/refs/heads/main/Collections/Collections.ogg)
 - [🔗 Link del código probado por US y Guardado en GitHub](https://github.com/mejia-Xsbethx15162/FichasExpos/blob/b9950a287018f5d6b021a3cbb3107590b132f7c9/Collections/Collections.png)
 
 ---
