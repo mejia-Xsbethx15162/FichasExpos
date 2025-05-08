@@ -37,7 +37,7 @@ Los arrays en Kotlin (y en la mayoría de los lenguajes de programación) son es
 
 - Genere el link del audio y el link del GitHub.
   
-- [🔗 Link del audio](#)
+- [🔗 Link del audio](https://github.com/mejia-Xsbethx15162/FichasExpos/raw/refs/heads/main/Arrays/Arrays.ogg)
 - [🔗 Link del código probado por US y Guardado en GitHub](https://github.com/mejia-Xsbethx15162/FichasExpos/blob/770e9d106cd9513a67b33b92f4b04340e2b0c28b/Arrays/Arrays.png)
 
 ---
