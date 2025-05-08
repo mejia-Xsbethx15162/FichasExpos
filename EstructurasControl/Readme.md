@@ -79,7 +79,7 @@ Porque en la vida real los errores ocurren (como intentar dividir entre cero o l
 - Genere el link del audio y el link del GitHub.
   
 - [🔗 Link del audio](#)
-- [🔗 Link del código probado por US y Guardado en GitHub](https://github.com/mejia-Xsbethx15162/FichasExpos/blob/86c1fbba7234156d10f08ec1e36b20436568785a/FuncionesStringsyPrinting/FuncionStringyPrinting.png)
+- [🔗 Link del código probado por US y Guardado en GitHub](https://github.com/mejia-Xsbethx15162/FichasExpos/blob/5ab91d5d79958a2c6f59d749acae4d6f6ff924e2/EstructurasControl/EstructuraControl.png)
 
 ---
 
