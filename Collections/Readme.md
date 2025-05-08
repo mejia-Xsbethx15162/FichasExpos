@@ -76,6 +76,7 @@ Porque una aplicación sin datos útiles no cumple su propósito. El manejo adec
 // import java.time.format.DateTimeFormatter
 
 // class TaskQueue(private val maxlen: Int? = null) {
+
     // `queue`: LinkedList para almacenar las tareas en orden de llegada (FIFO).
     private val queue = LinkedList<String>()
     // `history`: LinkedList para guardar el historial de las operaciones (añadido, procesado).
