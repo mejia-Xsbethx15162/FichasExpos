@@ -1,6 +1,6 @@
 Estructura #1
 
-# MANEJO DE VARIABLES
+# MANEJO DE VARIABLES Y TYPES
 
 ---
 
