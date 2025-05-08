@@ -303,7 +303,7 @@ fun main() {
 
 - Genere el link del audio y el link del GitHub.
   
-- [🔗 Link del audio](#)
+- [🔗 Link del audio](https://github.com/mejia-Xsbethx15162/FichasExpos/raw/refs/heads/main/POO/Poo.ogg)
 - [🔗 Link del código probado por US y Guardado en GitHub](https://github.com/mejia-Xsbethx15162/FichasExpos/blob/c8c08c09f5872d40ecb75a0eabc13190ee2b2ba4/POO/POO.png)
 
 ---
